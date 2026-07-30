@@ -14,10 +14,5 @@ Estudante de **Ciência da Computação** e **Design Digital**, com interesse em
 ## Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,react,vite,tailwind,nodejs,express,flutter,mysql,mongodb,git,github,vscode,postman,docker,vercel,figma,photoshop,illustrator" />
-
-## Conhecimentos
-
-`APIs REST` • `JSON` • `JWT` • `UI/UX` • `Design Responsivo` • `Scrum`
-
 </div>
 
