@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Olá, eu sou Murilo Hideki Sato
@@ -246,4 +245,3 @@ alt="Mensagem animada"
 />
 
 </div>
-```
