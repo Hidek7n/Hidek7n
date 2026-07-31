@@ -2,7 +2,7 @@
 
 # Olá, eu sou Murilo Hideki Sato
 
-### Desenvolvedor de Software | `Hideki`
+### Desenvolvedor de Software | Designer Digital
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9745F5&center=true&width=500&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Design+Digital;Desenvolvimento+de+Software"
